@@ -137,7 +137,7 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-28-23A-28-2823-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FCONTENT-2FBASE-22-29-20PACKAGE-29"></a>
 
-#### [package](6eb7) `40ants-mcp/content/base`
+#### [package](7ba7) `40ants-mcp/content/base`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FCONTENT-2FBASE-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -149,13 +149,13 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-2840ANTS-MCP-2FCONTENT-2FBASE-3ACONTENT-20CLASS-29"></a>
 
-###### [class](41cb) `40ants-mcp/content/base:content` ()
+###### [class](347d) `40ants-mcp/content/base:content` ()
 
 **Readers**
 
 <a id="x-2840ANTS-MCP-2FCONTENT-2FBASE-3ACONTENT-TYPE-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FCONTENT-2FBASE-3ACONTENT-29-29"></a>
 
-###### [reader](46e2) `40ants-mcp/content/base:content-type` (content) (:TYPE = "unknown")
+###### [reader](cd03) `40ants-mcp/content/base:content-type` (content) (:TYPE = "unknown")
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-4040ANTS-MCP-2FCONTENT-2FTEXT-3FPACKAGE-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -163,7 +163,7 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-28-23A-28-2823-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FCONTENT-2FTEXT-22-29-20PACKAGE-29"></a>
 
-#### [package](e968) `40ants-mcp/content/text`
+#### [package](6dea) `40ants-mcp/content/text`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FCONTENT-2FTEXT-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -175,13 +175,13 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-2840ANTS-MCP-2FCONTENT-2FTEXT-3ATEXT-CONTENT-20CLASS-29"></a>
 
-###### [class](ba3a) `40ants-mcp/content/text:text-content` (content)
+###### [class](b3cb) `40ants-mcp/content/text:text-content` (content)
 
 **Readers**
 
 <a id="x-2840ANTS-MCP-2FCONTENT-2FTEXT-3ACONTENT-TEXT-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FCONTENT-2FTEXT-3ATEXT-CONTENT-29-29"></a>
 
-###### [reader](eec6) `40ants-mcp/content/text:content-text` (text-content) (:text)
+###### [reader](dc8f) `40ants-mcp/content/text:content-text` (text-content) (:text)
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-4040ANTS-MCP-2FHTTP-TRANSPORT-3FPACKAGE-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -189,7 +189,7 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-28-23A-28-2825-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FHTTP-TRANSPORT-22-29-20PACKAGE-29"></a>
 
-#### [package](bddb) `40ants-mcp/http-transport`
+#### [package](88e6) `40ants-mcp/http-transport`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FHTTP-TRANSPORT-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -201,7 +201,7 @@ For more examples, check the `examples/` directory in the source code.
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-20CLASS-29"></a>
 
-###### [class](d2f4) `40ants-mcp/http-transport:http-transport` ()
+###### [class](b290) `40ants-mcp/http-transport:http-transport` ()
 
 `HTTP` transport implementation for `MCP` (Model Context Protocol) communication.
 This class handles `JSON-RPC` message exchange via `HTTP` `POST` requests.
@@ -210,31 +210,31 @@ This class handles `JSON-RPC` message exchange via `HTTP` `POST` requests.
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-LACK-APP-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [reader](59d2) `40ants-mcp/http-transport:transport-lack-app` (http-transport) ()
+###### [reader](230a) `40ants-mcp/http-transport:transport-lack-app` (http-transport) ()
 
 Lack application instance
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-MESSAGE-HANDLER-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [reader](5447) `40ants-mcp/http-transport:transport-message-handler` (http-transport) ()
+###### [reader](8339) `40ants-mcp/http-transport:transport-message-handler` (http-transport) ()
 
 Function to handle incoming messages
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-PORT-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [reader](460e) `40ants-mcp/http-transport:transport-port` (http-transport) (:port = 8080)
+###### [reader](7034) `40ants-mcp/http-transport:transport-port` (http-transport) (:port = 8080)
 
 Port number to listen on.
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-RUNNING-P-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [reader](e960) `40ants-mcp/http-transport:transport-running-p` (http-transport) (= t)
+###### [reader](5e7c) `40ants-mcp/http-transport:transport-running-p` (http-transport) (= t)
 
 Flag indicating if transport is active
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-SERVER-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [reader](c7d8) `40ants-mcp/http-transport:transport-server` (http-transport) ()
+###### [reader](752d) `40ants-mcp/http-transport:transport-server` (http-transport) ()
 
 Clack server instance
 
@@ -242,25 +242,25 @@ Clack server instance
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-LACK-APP-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [accessor](59d2) `40ants-mcp/http-transport:transport-lack-app` (http-transport) ()
+###### [accessor](230a) `40ants-mcp/http-transport:transport-lack-app` (http-transport) ()
 
 Lack application instance
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-MESSAGE-HANDLER-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [accessor](5447) `40ants-mcp/http-transport:transport-message-handler` (http-transport) ()
+###### [accessor](8339) `40ants-mcp/http-transport:transport-message-handler` (http-transport) ()
 
 Function to handle incoming messages
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-RUNNING-P-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [accessor](e960) `40ants-mcp/http-transport:transport-running-p` (http-transport) (= t)
+###### [accessor](5e7c) `40ants-mcp/http-transport:transport-running-p` (http-transport) (= t)
 
 Flag indicating if transport is active
 
 <a id="x-2840ANTS-MCP-2FHTTP-TRANSPORT-3ATRANSPORT-SERVER-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FHTTP-TRANSPORT-3AHTTP-TRANSPORT-29-29"></a>
 
-###### [accessor](c7d8) `40ants-mcp/http-transport:transport-server` (http-transport) ()
+###### [accessor](752d) `40ants-mcp/http-transport:transport-server` (http-transport) ()
 
 Clack server instance
 
@@ -270,7 +270,7 @@ Clack server instance
 
 <a id="x-28-23A-28-2828-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FSERVER-2FDEFINITION-22-29-20PACKAGE-29"></a>
 
-#### [package](e969) `40ants-mcp/server/definition`
+#### [package](ef30) `40ants-mcp/server/definition`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FSERVER-2FDEFINITION-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -282,13 +282,13 @@ Clack server instance
 
 <a id="x-2840ANTS-MCP-2FSERVER-2FDEFINITION-3AMCP-SERVER-20CLASS-29"></a>
 
-###### [class](158a) `40ants-mcp/server/definition:mcp-server` (api)
+###### [class](9f32) `40ants-mcp/server/definition:mcp-server` (api)
 
 **Readers**
 
 <a id="x-2840ANTS-MCP-2FSERVER-2FDEFINITION-3ASERVER-TOOLS-COLLECTIONS-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FSERVER-2FDEFINITION-3AMCP-SERVER-29-29"></a>
 
-###### [reader](691e) `40ants-mcp/server/definition:server-tools-collections` (mcp-server) (collections = nil)
+###### [reader](0e16) `40ants-mcp/server/definition:server-tools-collections` (mcp-server) (collections = nil)
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FSERVER-2FDEFINITION-3FFunctions-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -296,7 +296,7 @@ Clack server instance
 
 <a id="x-2840ANTS-MCP-2FSERVER-2FDEFINITION-3ASTART-SERVER-20FUNCTION-29"></a>
 
-##### [function](2c74) `40ants-mcp/server/definition:start-server` tools-collections &key (transport :stdio) (port 8080)
+##### [function](b145) `40ants-mcp/server/definition:start-server` tools-collections &key (transport :stdio) (port 8080)
 
 Start the `MCP` server with specified transport.
 `TRANSPORT` can be :stdio or :http.
@@ -308,7 +308,7 @@ Start the `MCP` server with specified transport.
 
 <a id="x-28-23A-28-2824-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FSERVER-2FERRORS-22-29-20PACKAGE-29"></a>
 
-#### [package](cd62) `40ants-mcp/server/errors`
+#### [package](9049) `40ants-mcp/server/errors`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FSERVER-2FERRORS-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -320,7 +320,7 @@ Start the `MCP` server with specified transport.
 
 <a id="x-2840ANTS-MCP-2FSERVER-2FERRORS-3ATOOL-ERROR-20CONDITION-29"></a>
 
-###### [condition](22c6) `40ants-mcp/server/errors:tool-error` ()
+###### [condition](038d) `40ants-mcp/server/errors:tool-error` ()
 
 You should signal this error in case if the tool can't accomplish it's job.
 
@@ -328,7 +328,7 @@ You should signal this error in case if the tool can't accomplish it's job.
 
 <a id="x-2840ANTS-MCP-2FSERVER-2FERRORS-3ATOOL-ERROR-CONTENT-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FSERVER-2FERRORS-3ATOOL-ERROR-29-29"></a>
 
-###### [reader](22c6) `40ants-mcp/server/errors:tool-error-content` (tool-error) (:content)
+###### [reader](038d) `40ants-mcp/server/errors:tool-error-content` (tool-error) (:content)
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-4040ANTS-MCP-2FSTDIO-TRANSPORT-3FPACKAGE-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -336,7 +336,7 @@ You should signal this error in case if the tool can't accomplish it's job.
 
 <a id="x-28-23A-28-2826-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FSTDIO-TRANSPORT-22-29-20PACKAGE-29"></a>
 
-#### [package](6786) `40ants-mcp/stdio-transport`
+#### [package](9f3a) `40ants-mcp/stdio-transport`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FSTDIO-TRANSPORT-3FClasses-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -348,7 +348,7 @@ You should signal this error in case if the tool can't accomplish it's job.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-20CLASS-29"></a>
 
-###### [class](aaf4) `40ants-mcp/stdio-transport:stdio-transport` ()
+###### [class](776e) `40ants-mcp/stdio-transport:stdio-transport` ()
 
 `STDIO` transport implementation for `MCP` (Model Context Protocol) communication.
 This class handles `JSON-RPC` message exchange via standard input/output streams.
@@ -358,19 +358,19 @@ It is designed to work with the `MCP` protocol specification for `AI` model comm
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-INPUT-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [reader](70f6) `40ants-mcp/stdio-transport:transport-input` (stdio-transport) (:input-stream = \*standard-input\*)
+###### [reader](6de0) `40ants-mcp/stdio-transport:transport-input` (stdio-transport) (:input-stream = \*standard-input\*)
 
 Input stream for reading `JSON-RPC` messages. Defaults to *standard-input*.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-OUTPUT-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [reader](ac77) `40ants-mcp/stdio-transport:transport-output` (stdio-transport) (:output-stream = \*standard-output\*)
+###### [reader](3063) `40ants-mcp/stdio-transport:transport-output` (stdio-transport) (:output-stream = \*standard-output\*)
 
 Output stream for writing `JSON-RPC` responses. Defaults to *standard-output*.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-RUNNING-P-20-2840ANTS-DOC-2FLOCATIVES-3AREADER-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [reader](0bd0) `40ants-mcp/stdio-transport:transport-running-p` (stdio-transport) (= t)
+###### [reader](02aa) `40ants-mcp/stdio-transport:transport-running-p` (stdio-transport) (= t)
 
 Flag indicating if transport is active and processing messages.
 
@@ -378,19 +378,19 @@ Flag indicating if transport is active and processing messages.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-INPUT-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [accessor](70f6) `40ants-mcp/stdio-transport:transport-input` (stdio-transport) (:input-stream = \*standard-input\*)
+###### [accessor](6de0) `40ants-mcp/stdio-transport:transport-input` (stdio-transport) (:input-stream = \*standard-input\*)
 
 Input stream for reading `JSON-RPC` messages. Defaults to *standard-input*.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-OUTPUT-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [accessor](ac77) `40ants-mcp/stdio-transport:transport-output` (stdio-transport) (:output-stream = \*standard-output\*)
+###### [accessor](3063) `40ants-mcp/stdio-transport:transport-output` (stdio-transport) (:output-stream = \*standard-output\*)
 
 Output stream for writing `JSON-RPC` responses. Defaults to *standard-output*.
 
 <a id="x-2840ANTS-MCP-2FSTDIO-TRANSPORT-3ATRANSPORT-RUNNING-P-20-2840ANTS-DOC-2FLOCATIVES-3AACCESSOR-2040ANTS-MCP-2FSTDIO-TRANSPORT-3ASTDIO-TRANSPORT-29-29"></a>
 
-###### [accessor](0bd0) `40ants-mcp/stdio-transport:transport-running-p` (stdio-transport) (= t)
+###### [accessor](02aa) `40ants-mcp/stdio-transport:transport-running-p` (stdio-transport) (= t)
 
 Flag indicating if transport is active and processing messages.
 
@@ -400,13 +400,13 @@ Flag indicating if transport is active and processing messages.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ARECEIVE-MESSAGE-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](c339) `40ants-mcp/transport/base:receive-message` transport
+##### [generic-function](a41d) `40ants-mcp/transport/base:receive-message` transport
 
 Receive a `JSON-RPC` message, returns a message or `NIL`.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ASEND-MESSAGE-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](0897) `40ants-mcp/transport/base:send-message` transport message
+##### [generic-function](c6ea) `40ants-mcp/transport/base:send-message` transport message
 
 Send a `JSON-RPC` message, returns no values.
 
@@ -416,7 +416,7 @@ Send a `JSON-RPC` message, returns no values.
 
 <a id="x-28-23A-28-2816-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FTOOLS-22-29-20PACKAGE-29"></a>
 
-#### [package](1aa4) `40ants-mcp/tools`
+#### [package](e8e4) `40ants-mcp/tools`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FTOOLS-3FMacros-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -424,7 +424,7 @@ Send a `JSON-RPC` message, returns no values.
 
 <a id="x-2840ANTS-MCP-2FTOOLS-3ADEFINE-TOOL-20-2840ANTS-DOC-2FLOCATIVES-3AMACRO-29-29"></a>
 
-##### [macro](ed5a) `40ants-mcp/tools:define-tool` name args &body body
+##### [macro](19bc) `40ants-mcp/tools:define-tool` name args &body body
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-4040ANTS-MCP-2FTRANSPORT-2FBASE-3FPACKAGE-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -432,7 +432,7 @@ Send a `JSON-RPC` message, returns no values.
 
 <a id="x-28-23A-28-2825-29-20BASE-CHAR-20-2E-20-2240ANTS-MCP-2FTRANSPORT-2FBASE-22-29-20PACKAGE-29"></a>
 
-#### [package](4df5) `40ants-mcp/transport/base`
+#### [package](6304) `40ants-mcp/transport/base`
 
 <a id="x-2840ANTS-MCP-DOCS-2FINDEX-3A-3A-7C-4040ANTS-MCP-2FTRANSPORT-2FBASE-3FGenerics-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -440,25 +440,25 @@ Send a `JSON-RPC` message, returns no values.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ARECEIVE-MESSAGE-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](c339) `40ants-mcp/transport/base:receive-message` transport
+##### [generic-function](a41d) `40ants-mcp/transport/base:receive-message` transport
 
 Receive a `JSON-RPC` message, returns a message or `NIL`.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ASEND-MESSAGE-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](0897) `40ants-mcp/transport/base:send-message` transport message
+##### [generic-function](c6ea) `40ants-mcp/transport/base:send-message` transport message
 
 Send a `JSON-RPC` message, returns no values.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ASTART-LOOP-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](efb3) `40ants-mcp/transport/base:start-loop` transport message-handler
+##### [generic-function](6fc2) `40ants-mcp/transport/base:start-loop` transport message-handler
 
 Starts message processing using given transport.
 
 <a id="x-2840ANTS-MCP-2FTRANSPORT-2FBASE-3ASTOP-LOOP-20GENERIC-FUNCTION-29"></a>
 
-##### [generic-function](12ab) `40ants-mcp/transport/base:stop-loop` transport
+##### [generic-function](cd26) `40ants-mcp/transport/base:stop-loop` transport
 
 Stops message processing using given transport.
 
@@ -467,37 +467,37 @@ Stops message processing using given transport.
 [348e]: https://40ants.com/openrpc/
 [e31f]: https://github.com/40ants/mcp
 [04f0]: https://github.com/40ants/mcp/actions
-[6eb7]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/base.lisp#L1
-[41cb]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/base.lisp#L8
-[46e2]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/base.lisp#L9
-[e968]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/text.lisp#L1
-[ba3a]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/text.lisp#L11
-[eec6]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/content/text.lisp#L12
-[bddb]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L1
-[d2f4]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L35
-[460e]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L36
-[59d2]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L40
-[c7d8]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L42
-[5447]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L44
-[e960]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/http-transport.lisp#L46
-[e969]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/definition.lisp#L1
-[2c74]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/definition.lisp#L104
-[158a]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/definition.lisp#L38
-[691e]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/definition.lisp#L39
-[cd62]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/errors.lisp#L1
-[22c6]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/server/errors.lisp#L10
-[6786]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/stdio-transport.lisp#L1
-[aaf4]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/stdio-transport.lisp#L19
-[70f6]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/stdio-transport.lisp#L20
-[ac77]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/stdio-transport.lisp#L24
-[0bd0]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/stdio-transport.lisp#L28
-[1aa4]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/tools.lisp#L1
-[ed5a]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/tools.lisp#L10
-[4df5]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/transport/base.lisp#L1
-[efb3]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/transport/base.lisp#L10
-[12ab]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/transport/base.lisp#L14
-[c339]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/transport/base.lisp#L18
-[0897]: https://github.com/40ants/mcp/blob/463da5a6e74072d182ab5e430b3bc45f28f7c80b/src/transport/base.lisp#L22
+[7ba7]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/base.lisp#L1
+[347d]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/base.lisp#L8
+[cd03]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/base.lisp#L9
+[6dea]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/text.lisp#L1
+[b3cb]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/text.lisp#L11
+[dc8f]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/content/text.lisp#L12
+[88e6]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L1
+[b290]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L35
+[7034]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L36
+[230a]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L40
+[752d]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L42
+[8339]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L44
+[5e7c]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/http-transport.lisp#L46
+[ef30]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/definition.lisp#L1
+[b145]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/definition.lisp#L104
+[9f32]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/definition.lisp#L38
+[0e16]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/definition.lisp#L39
+[9049]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/errors.lisp#L1
+[038d]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/server/errors.lisp#L10
+[9f3a]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/stdio-transport.lisp#L1
+[776e]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/stdio-transport.lisp#L19
+[6de0]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/stdio-transport.lisp#L20
+[3063]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/stdio-transport.lisp#L24
+[02aa]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/stdio-transport.lisp#L28
+[e8e4]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/tools.lisp#L1
+[19bc]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/tools.lisp#L10
+[6304]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/transport/base.lisp#L1
+[6fc2]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/transport/base.lisp#L10
+[cd26]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/transport/base.lisp#L14
+[a41d]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/transport/base.lisp#L18
+[c6ea]: https://github.com/40ants/mcp/blob/85602aa0a65bee2c0b4df0d1328de71fe7d592e4/src/transport/base.lisp#L22
 [6ed2]: https://github.com/40ants/mcp/issues
 [473e]: https://modelcontextprotocol.io/
 [8236]: https://quickdocs.org/alexandria
